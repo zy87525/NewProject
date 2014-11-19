@@ -1,4 +1,4 @@
-package fr.ufrv.traitement;
+package com.uvsq.RDF;
 
 public class RDF {
 	private String FileName;	
